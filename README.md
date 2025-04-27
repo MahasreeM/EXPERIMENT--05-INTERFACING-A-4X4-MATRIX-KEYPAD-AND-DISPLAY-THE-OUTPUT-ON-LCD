@@ -1,4 +1,4 @@
-## REG.NO:212224110035
+![Screenshot 2025-04-27 103430](https://github.com/user-attachments/assets/f1f34e9e-edf0-4a9d-ab99-83b7faeb54dc)## REG.NO:212224110035
 ## NAME: MAHA SHREE.M
 ## DATE: 24-05-25
 # EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD
@@ -181,7 +181,9 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
 
 ## CIRCUIT DIAGRAM 
- 
+
+![image](https://github.com/user-attachments/assets/86fdc2a2-ee40-41da-87a1-4f7cb0db0e98)
+
 
 ## STM 32 CUBE PROGRAM :
 ```
